@@ -12,8 +12,7 @@ graficele obtinute in fisierul Readme am folosit comanda ‘print’ pentru a sa
 un fisier cu extensia jpg si apoi am inserat aceste fisiere in Readme.
 
 Graficele obtinute pentru cerinta 2, imaginea 2 sunt urmatoarele:
-Graficul 1 Graficul 2
-Graficul 3 Graficul 4
+![alt text] (https://github.com/andreea-h/Tema2-MN-Face-recognition-algorithm/blob/master/cerinta2_imaginea2.png)
 
 Pentru realizarea graficului 2 am parcurs cu un index numerele de la 1 la dimensiunea vectorului k
 predefinit, calculand la fiecare pas suma primelor k valori singulare ale matricei A respectiv suma
