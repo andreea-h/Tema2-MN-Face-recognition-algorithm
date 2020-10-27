@@ -23,13 +23,8 @@ k) si vectorul valorilor de pe axa Oy (vectorul care memoreaza informatia la fie
 anterior). Am procedat similar si in cadrul celorlalte grafice, memorand de fiecare data perechile de
 puncte de forma (x,y) care trebuie reprezentate in componentele a 2 vectori, valoarea y calculandu-
 se conform formulelor din enunt.Graficele obtinute pentru cerinta 2, imaginea 3, sunt urmatoarele:
-Graficul 1
 
-Graficul 3
-
-Graficul 2
-
-Graficul 4
+![alt text](https://github.com/andreea-h/Tema2-MN-Face-recognition-algorithm/blob/master/cerinta2_imaginea3.png)
 
 In rezolvarea task-ului 3 al temei, calculul valorilor singulare folosind metoda DVS, am parcurs
 initial matricea A calculand pentru fiecare linie a sa suma elementelor, impartind apoi aceasta suma
