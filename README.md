@@ -37,13 +37,12 @@ componentelor principale am folosit instructiunea eig (pentru a genera vectorii 
 parcurgand apoi coloanele lui V si copiind primele k coloane in matricea V.
 Pentru reprezentarea graficelor de la task-ul 5 am procedat similar cu task-ul 2, adaptand formulele
 din enunt. Pentru realizarea tuturor graficelor am folosit valorile lui k din enuntul temei.
-Graficele obtinute la task 5 pentru imaginea 2 sunt urmatoarele:Graficul 1
-Graficul 2
+Graficele obtinute la task 5 pentru imaginea 2 sunt urmatoarele:
 
-Graficul 3
+![alt enter](https://github.com/andreea-h/Tema2-MN-Face-recognition-algorithm/blob/master/task5_imaginea2.png)
 
 Graficele obtinute pentru imaginea 3 (taskul 5) sunt urmatoarele:
-Graficul 4
+![alt enter](https://github.com/andreea-h/Tema2-MN-Face-recognition-algorithm/blob/master/task5_imaginea3.png)
 
 In cadrul ultimului task al temei, recunoasterea faciala, in prima functie de implemenat
 ( ‘eigenface_core(database_path)’ ) am considerat cunoscut faptul ca database_path va indica o cale
